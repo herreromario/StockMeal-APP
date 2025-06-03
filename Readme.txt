@@ -1,6 +1,5 @@
-Thanks for downloading this template!
+TFG propiedad de Mario Herrero.
 
-Template Name: Bocor
-Template URL: https://bootstrapmade.com/bocor-bootstrap-template-nice-animation/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+StockMeal - Control total de stock y ventas para casas de comidas
+
+Optimiza tu negocio con una solución multiplataforma, sencilla y accesible desde cualquier lugar.
